@@ -1,0 +1,15 @@
+D:\Documentos\Calculadora_matrices\Calculadora_matrices\bin\Debug\netcoreapp3.1\Calculadora_matrices.exe
+D:\Documentos\Calculadora_matrices\Calculadora_matrices\bin\Debug\netcoreapp3.1\Calculadora_matrices.deps.json
+D:\Documentos\Calculadora_matrices\Calculadora_matrices\bin\Debug\netcoreapp3.1\Calculadora_matrices.runtimeconfig.json
+D:\Documentos\Calculadora_matrices\Calculadora_matrices\bin\Debug\netcoreapp3.1\Calculadora_matrices.runtimeconfig.dev.json
+D:\Documentos\Calculadora_matrices\Calculadora_matrices\bin\Debug\netcoreapp3.1\Calculadora_matrices.dll
+D:\Documentos\Calculadora_matrices\Calculadora_matrices\bin\Debug\netcoreapp3.1\Calculadora_matrices.pdb
+D:\Documentos\Calculadora_matrices\Calculadora_matrices\obj\Debug\netcoreapp3.1\Calculadora_matrices.csprojAssemblyReference.cache
+D:\Documentos\Calculadora_matrices\Calculadora_matrices\obj\Debug\netcoreapp3.1\Calculadora_matrices.Form1.resources
+D:\Documentos\Calculadora_matrices\Calculadora_matrices\obj\Debug\netcoreapp3.1\Calculadora_matrices.csproj.GenerateResource.cache
+D:\Documentos\Calculadora_matrices\Calculadora_matrices\obj\Debug\netcoreapp3.1\Calculadora_matrices.AssemblyInfoInputs.cache
+D:\Documentos\Calculadora_matrices\Calculadora_matrices\obj\Debug\netcoreapp3.1\Calculadora_matrices.AssemblyInfo.cs
+D:\Documentos\Calculadora_matrices\Calculadora_matrices\obj\Debug\netcoreapp3.1\Calculadora_matrices.csproj.CoreCompileInputs.cache
+D:\Documentos\Calculadora_matrices\Calculadora_matrices\obj\Debug\netcoreapp3.1\Calculadora_matrices.dll
+D:\Documentos\Calculadora_matrices\Calculadora_matrices\obj\Debug\netcoreapp3.1\Calculadora_matrices.pdb
+D:\Documentos\Calculadora_matrices\Calculadora_matrices\obj\Debug\netcoreapp3.1\Calculadora_matrices.genruntimeconfig.cache
